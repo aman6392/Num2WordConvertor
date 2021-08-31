@@ -1,0 +1,10 @@
+H:\Desktop\aman\Personal\HexagonCodeTest\CurrencyToWords\CurrencyToWords\bin\Debug\CurrencyToWords.exe.config
+H:\Desktop\aman\Personal\HexagonCodeTest\CurrencyToWords\CurrencyToWords\bin\Debug\CurrencyToWords.exe
+H:\Desktop\aman\Personal\HexagonCodeTest\CurrencyToWords\CurrencyToWords\bin\Debug\CurrencyToWords.pdb
+H:\Desktop\aman\Personal\HexagonCodeTest\CurrencyToWords\CurrencyToWords\obj\Debug\CurrencyToWords.csprojAssemblyReference.cache
+H:\Desktop\aman\Personal\HexagonCodeTest\CurrencyToWords\CurrencyToWords\obj\Debug\CurrencyToWords.numToWords.resources
+H:\Desktop\aman\Personal\HexagonCodeTest\CurrencyToWords\CurrencyToWords\obj\Debug\CurrencyToWords.Properties.Resources.resources
+H:\Desktop\aman\Personal\HexagonCodeTest\CurrencyToWords\CurrencyToWords\obj\Debug\CurrencyToWords.csproj.GenerateResource.cache
+H:\Desktop\aman\Personal\HexagonCodeTest\CurrencyToWords\CurrencyToWords\obj\Debug\CurrencyToWords.csproj.CoreCompileInputs.cache
+H:\Desktop\aman\Personal\HexagonCodeTest\CurrencyToWords\CurrencyToWords\obj\Debug\CurrencyToWords.exe
+H:\Desktop\aman\Personal\HexagonCodeTest\CurrencyToWords\CurrencyToWords\obj\Debug\CurrencyToWords.pdb

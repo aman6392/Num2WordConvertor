@@ -1,0 +1,45 @@
+/*if (num < 20)
+            {
+                strOnes = ones[num];
+                strFinal = strOnes;
+            }
+            else if (num >= 20 && num < 100) //Tens
+            {
+                strOnes = ones[num % 10];
+
+                strTens = tens[num / 10];
+
+                strFinal = strTens + strOnes;
+
+            }
+            else if (num >= 100 && num < 1000) //hundreds
+            {
+                strOnes = ones[num / 100] + " HUNDRED ";
+
+                strTens = ConvertNum(num % 100);
+
+                strFinal = strOnes + strTens;
+
+            }
+            else if (num >= 1000 && num < 1000000) //thousands
+            {
+                strOnes = ConvertNum(num / 1000) + " THOUSAND ";
+
+                strTens = ConvertNum(num % 1000);
+
+                strFinal = strOnes + strTens;
+            }
+            else if (num >= 1000000 && num < 1000000000) //millions
+            {
+                strOnes = ConvertNum(num / 1000000) + " MILLION ";
+
+                strTens = ConvertNum(num % 1000000);
+
+                strFinal = strOnes + strTens;
+            }
+            else if (num >= 1000000000) //billions
+            {
+                labelErrorText.Text = "Please input a number less than a billion";
+                textBoxCharDisplay.Text = "";
+                strFinal = "";
+            }*/
